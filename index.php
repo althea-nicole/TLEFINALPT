@@ -12,7 +12,7 @@
 <h2>
 <a href="TOMORROW.html">TOMORROW</a></h2>
 <br><h3>GROUP MEMBERS:
-<body text="white">
+<body text="black">
 <h4>
 <center>
 <br>ALTHEA NICOLE CASTILLANO
